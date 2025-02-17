@@ -1,0 +1,36 @@
+# single line comment in shell scripting :- # 
+
+# multiple line comment in shell scripting :- 
+<< comment
+adgfhfddfgghgd
+asdgfdnfghff
+comment
+
+# Variable:- key and value
+  name="Amit Kumar"
+
+# How to run a linux command as variable :-
+
+# Input from user :- 
+read -p "what is your surname ? " surname
+echo "My surname is $surname"
+
+
+# To check user existence :- 
+if id "$username" &>/dev/null; then
+    echo "User '$username' has been created successfully."
+else
+    echo "Failed to create user '$username'. Please check for errors."
+fi
+
+
+# Arguments :- 
+$0 means - script name 
+$1- argument alongwith scriptnane while running script :- ex:- ./script.sh mitu 
+
+
+# Conditions :- if else case 
+jab comparison karno ho string ka yeah number ka then user this [[  ..   ]]
+jab command run karne ho then simple :- if command; then 
+
+
