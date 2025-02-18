@@ -34,3 +34,11 @@ jab comparison karno ho string ka yeah number ka then user this [[  ..   ]]
 jab command run karne ho then simple :- if command; then 
 
 
+# for loop :- for repetitive task. bas condition satisfied hone chaiye. 
+#basic syntax :- 
+for i in ;
+do 
+code 
+done 
+
+
