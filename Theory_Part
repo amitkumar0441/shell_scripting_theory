@@ -41,4 +41,25 @@ do
 code 
 done 
 
+# while loop :- yeh tab tak clta rahega jab tak condtions satisfy nhi ho jate.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Functions in shell scripting :-
+
+for reusing the block of code so that no need to write same code again and again.
+syntax:- 
+function functionname {
+  #block ofcode
+}
+functionname  :- to call the function. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Error Handling in shell scripting :- 
+most important part that if shell script got error then further part of script should not run. 
+main component :- if & then , exit 1 
+
+
+
+
 
