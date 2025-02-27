@@ -59,6 +59,13 @@ functionname  :- to call the function.
 most important part that if shell script got error then further part of script should not run. 
 main component :- if & then , exit 1 
 
+# DO project As much you can. 
+shell talks with aws cli and aws cli talks with aws. 
+
+
+$#- this means numbers of arguments 
+$0- means name of the script. 
+
 
 
 
